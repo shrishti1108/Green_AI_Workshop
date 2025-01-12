@@ -1,1 +1,11 @@
+Wildfire Prediction Dataset
 
+This dataset, sourced from Kaggle, provides comprehensive data for predicting wildfires. It includes features such as temperature, humidity, wind speed, and other environmental factors that influence wildfire occurrence. Ideal for machine learning projects, the dataset supports binary classification tasks (wildfire/no wildfire).
+
+Dataset Details:
+
+Source: Kaggle
+Features: Environmental factors (e.g., temperature, wind, humidity)
+Purpose: Train predictive models for wildfire detection or forecasting.
+
+https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset
